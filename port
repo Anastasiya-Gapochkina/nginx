@@ -1,0 +1,5 @@
+nginx     706                 root    6u     IPv4              14121      0t0        TCP *:80 (LISTEN)
+php-fpm7. 724                 root    8u     IPv4              14549      0t0        TCP localhost:9000 (LISTEN)
+php-fpm7. 765             www-data    0u     IPv4              14549      0t0        TCP localhost:9000 (LISTEN)
+php-fpm7. 766             www-data    0u     IPv4              14549      0t0        TCP localhost:9000 (LISTEN)
+nginx     785             www-data    6u     IPv4              14121      0t0        TCP *:80 (LISTEN)
